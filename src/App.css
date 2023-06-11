@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.square{
+  width: 25px;
+  height: 25px;
+  background: white;
+  border: 2px solid black;
+  /* align-items: center; */
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
